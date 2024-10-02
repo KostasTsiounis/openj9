@@ -54,10 +54,6 @@
 #include <signal.h>
 #endif
 
-#if defined(J9ZOS390)
-#include "atoe.h"
-#endif
-
 #include "omrcfg.h"
 #include "jvminitcommon.h"
 #include "j9user.h"

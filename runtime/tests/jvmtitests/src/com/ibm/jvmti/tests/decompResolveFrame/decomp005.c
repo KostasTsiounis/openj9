@@ -22,7 +22,6 @@
 
 #include "jvmti_test.h"
 #include <string.h>
-#include <strings.h>
 
 static agentEnv * env;
 static int imse = 0;
